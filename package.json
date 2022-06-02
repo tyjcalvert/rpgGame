@@ -1,0 +1,16 @@
+{
+  "name": "rpg-game",
+  "version": "1.0.0",
+  "description": "a really lame rpg",
+  "main": "rpg.js",
+  "scripts": {
+    "start": "node rpg.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "keywords": []
+}
